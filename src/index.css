@@ -1,0 +1,17 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+/* Custom class to pause animation on hover */  
+.animate-fade-animation {  
+    animation: fade 3s infinite; /* Example animation */  
+}  
+
+@keyframes fade {  
+    0% {  
+        opacity: 1;  
+    }   
+    100% {  
+        opacity: 1;  
+    }  
+}  
