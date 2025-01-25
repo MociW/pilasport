@@ -1,3 +1,6 @@
+import React from "react";
+import { Link } from "react-router-dom";
+
 const Navbar = () => {
     return (
         <nav className="sticky top-0 z-50">
@@ -5,13 +8,13 @@ const Navbar = () => {
                 <div className="lg:w-[970px] lg:m-auto lg:justify-center lg:items-center">
                     <div className="navbar">
                         <div className="flex-1">
-                            <a href="#start">
+                            <Link to="/">
                                 <img
                                     src="/img/parxy.png"
                                     alt="EduSquad Logo - Engineering Education Support for Quality Advancements"
                                     className="w-auto h-[80px] align-middle"
                                 />
-                            </a>
+                            </Link>
                         </div>
                         <div className="flex-none">
                             <MonitorNav />
@@ -26,22 +29,22 @@ const Navbar = () => {
 
 const MonitorNav = () => {
     return (
-        <div className=" max-lg:hidden">
+        <div className="max-lg:hidden">
             <ul className="gap-5 text-sm font-semibold menu menu-horizontal">
                 <li>
-                    <a href="#about" className="px-8">
+                    <Link to="/" className="px-8">
                         Home
-                    </a>
+                    </Link>
                 </li>
                 <li>
-                    <a href="#overview" className="px-8">
+                    <Link to="/project" className="px-8">
                         Project
-                    </a>
+                    </Link>
                 </li>
                 <li>
-                    <a href="#training-program" className="px-8">
+                    <Link to="/product" className="px-8">
                         Product
-                    </a>
+                    </Link>
                 </li>
             </ul>
         </div>
@@ -76,13 +79,13 @@ const HambugerNav = () => {
                     className="menu menu-sm dropdown-content bg-[#fff] rounded-box z-[1] mt-3 w-52 p-2 shadow"
                 >
                     <li>
-                        <a href="#about">Home</a>
+                        <Link to="/">Home</Link>
                     </li>
                     <li>
-                        <a href="#overview">Project</a>
+                        <Link to="/project">Project</Link>
                     </li>
                     <li>
-                        <a href="#training-program">Product</a>
+                        <Link to="/product">Product</Link>
                     </li>
                 </ul>
             </div>

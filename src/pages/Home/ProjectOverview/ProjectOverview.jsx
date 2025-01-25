@@ -1,4 +1,5 @@
 import React, { useEffect, useState } from "react";
+import Pattern from "../../../components/Pattern/Pattern";
 
 const cardData = [
     { img: "/img/1.jpg", title: "Jawa" },
@@ -6,29 +7,7 @@ const cardData = [
     { img: "/img/3.jpg", title: "Banda Aceh" },
 ];
 
-const SvgPattern = () => (
-    <svg width="100%" height="100%" xmlns="http://www.w3.org/2000/svg">
-        <defs>
-            <pattern
-                id="b"
-                patternUnits="userSpaceOnUse"
-                width="40"
-                height="40"
-                patternTransform="scale(0.5)"
-            >
-                <rect x="0" y="0" width="100%" height="100%" fill="none" />
-                <path
-                    d="M11 6a5 5 0 01-5 5 5 5 0 01-5-5 5 5 0 015-5 5 5 0 015 5"
-                    strokeWidth="1"
-                    fill="currentColor"
-                />
-            </pattern>
-        </defs>
-        <rect width="800%" height="800%" fill="url(#b)" />
-    </svg>
-);
-
-const OverviewProduct = () => {
+const ProjectOverview = () => {
     const [currentIndex, setCurrentIndex] = useState(0);
 
     useEffect(() => {
@@ -42,14 +21,14 @@ const OverviewProduct = () => {
     }, []);
 
     return (
-        <section className=" bg-[#fff]">
-            <div className="relative pb-20 lg:flex lg:justify-center lg:items-center">
+        <section className="bg-[#fff]">
+            <div className="relative py-20 lg:flex lg:justify-center lg:items-center bg-[#fff]">
                 <div className="w-[970px] h-[480px] bg-[#F3F3F3] rounded-[10px] relative shadow-lg">
                     <div className="relative z-10 pt-10">
-                        <h2 className="mb-5 text-2xl font-bold text-center">
-                            OUR PRODUCT
-                        </h2>
-                        <div className="flex flex-row-reverse justify-center gap-10">
+                        <h1 className="mb-5 text-2xl font-bold text-center">
+                            OUR PROJECT
+                        </h1>
+                        <div className="flex justify-center gap-10">
                             <div className="w-[340px]">
                                 <p className="mb-3 text-justify">
                                     Lorem ipsum dolor sit amet, consectetur
@@ -64,7 +43,7 @@ const OverviewProduct = () => {
                                     iaculis ipsum eu leo dapibus vulputate quis
                                     id odio.
                                 </p>
-                                <div className="flex justify-start">
+                                <div className="flex justify-end">
                                     <button className="flex items-center rounded-lg bg-[#b7b7b7] hover:bg-[#7f7f7f] px-5 py-2 text-sm font-medium text-white">
                                         Explore More
                                     </button>
@@ -81,7 +60,7 @@ const OverviewProduct = () => {
                                             className="w-full h-full rounded-[10px] bg-center bg-cover duration-200"
                                         >
                                             <div className="flex items-center justify-center w-full h-full bg-black bg-opacity-50 rounded-[10px]">
-                                                <h3 className="text-2xl font-extrabold text-white text-center text-wrap w-[150px]">
+                                                <h3 className="text-2xl font-extrabold text-center text-wrap text-white w-[150px]">
                                                     {
                                                         cardData[currentIndex]
                                                             .title
@@ -96,10 +75,10 @@ const OverviewProduct = () => {
                     </div>
 
                     <div className="hidden sm:block h-[250px] w-[250px] text-[#D5D5D5] z-0 absolute bottom-[0px] left-[5px] opacity-50">
-                        <SvgPattern />
+                        <Pattern />
                     </div>
                     <div className="hidden sm:block h-[250px] w-[250px] text-[#D5D5D5] z-0 absolute left-[710px] bottom-[220px] opacity-50">
-                        <SvgPattern />
+                        <Pattern />
                     </div>
                 </div>
             </div>
@@ -107,4 +86,4 @@ const OverviewProduct = () => {
     );
 };
 
-export default OverviewProduct;
+export default ProjectOverview;

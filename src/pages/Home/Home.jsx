@@ -1,10 +1,11 @@
+import Footer from "../../components/Footer/Footer";
+import Navbar from "../../components/Navbar/Navbar";
 import About from "./About/About";
-import Footer from "./Footer/Footer";
 import Hero from "./Hero/Hero";
 import Location from "./Location/Location";
-import Navbar from "./Navbar/Navbar";
-import OverviewProduct from "./OverviewProduct/OverviewProduct";
-import OverviewProject from "./OverviewProject/OverviewProject";
+
+import OverviewProduct from "./ProductOverview/ProductOverview";
+import OverviewProject from "./ProjectOverview/ProjectOverview";
 
 export const Home = () => {
     return (

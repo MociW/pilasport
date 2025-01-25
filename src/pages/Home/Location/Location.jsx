@@ -5,7 +5,7 @@ const Location = () => {
         <section>
             <div className="flex items-center justify-center pb-20">
                 <div className="w-[970px] flex flex-col items-center justify-center gap-10">
-                    <h2 className="text-2xl font-bold">OUR LOCATION</h2>
+                    <h1 className="text-2xl font-bold">OUR LOCATION</h1>
                     <div className="flex justify-center gap-10">
                         <div>
                             <iframe
