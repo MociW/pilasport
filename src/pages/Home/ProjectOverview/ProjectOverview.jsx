@@ -1,5 +1,6 @@
 import React, { useEffect, useState } from "react";
 import Pattern from "../../../components/Pattern/Pattern";
+import { Link } from "react-router-dom";
 
 const cardData = [
     { img: "/img/1.jpg", title: "Jawa" },
@@ -44,9 +45,11 @@ const ProjectOverview = () => {
                                     id odio.
                                 </p>
                                 <div className="flex justify-end">
-                                    <button className="flex items-center rounded-lg bg-[#b7b7b7] hover:bg-[#7f7f7f] px-5 py-2 text-sm font-medium text-white">
-                                        Explore More
-                                    </button>
+                                    <Link to="/project">
+                                        <button className="flex items-center rounded-lg bg-[#b7b7b7] hover:bg-[#7f7f7f] px-5 py-2 text-sm font-medium text-white">
+                                            Explore More
+                                        </button>
+                                    </Link>
                                 </div>
                             </div>
 

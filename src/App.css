@@ -6,4 +6,12 @@ html {
   font-family: "Inter", "Roboto";
   padding: 0;
   margin: 0;
+  height: 100%;  
 }
+
+#root {  
+  display: flex;  
+  flex-direction: column;  
+  min-height: 100vh; /* Ensures the root takes at least the full height of the viewport */  
+}  
+  
