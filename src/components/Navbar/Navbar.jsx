@@ -6,7 +6,7 @@ const Navbar = () => {
         <nav className="sticky top-0 z-50">
             <div className="bg-[#fff]">
                 <div className="lg:w-[970px] lg:m-auto lg:justify-center lg:items-center">
-                    <div className="navbar">
+                    <div className="py-5 navbar">
                         <div className="flex-1">
                             <Link to="/">
                                 <img
@@ -55,11 +55,7 @@ const HambugerNav = () => {
     return (
         <div className="lg:hidden navbar-end">
             <div className="dropdown dropdown-end">
-                <div
-                    tabIndex="0"
-                    role="button"
-                    className="btn btn-ghost btn-square text-[black]"
-                >
+                <div tabIndex="0" role="button" className="btn btn-ghost btn-square text-[black]">
                     <svg
                         xmlns="http://www.w3.org/2000/svg"
                         fill="none"
