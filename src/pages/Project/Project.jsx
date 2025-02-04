@@ -6,7 +6,7 @@ import { Link } from "react-router-dom";
 
 const ProjectList = ({ data }) => {
     return (
-        <div className="m-4">
+        <div className="">
             <div className="w-52 h-72 shadow-xl card bg-base-100 image-full hover:scale-[1.1] duration-300">
                 <figure>
                     <img
@@ -39,7 +39,7 @@ const Project = () => {
         <>
             <Navbar />
             <section className="flex items-center justify-center">
-                <div className="w-[970px] mt-10 mb-20">
+                <div className="max-w-[970px] mt-10 mb-20">
                     <div className="bg-[#F3F3F3] w-full rounded-xl py-6 flex items-center justify-center mb-6">
                         <div className="flex flex-col w-4/5 border-opacity-50">
                             <div className="text-2xl font-bold divider">
@@ -47,7 +47,7 @@ const Project = () => {
                             </div>
                         </div>
                     </div>
-                    <div className="grid grid-cols-1 lg:grid-cols-4">
+                    <div className="grid items-center justify-center grid-cols-1 gap-7 lg:gap-10 md:grid-cols-3 lg:grid-cols-4">
                         {projectCategory.map((category, index) => (
                             <Link key={index} to={`/project/${category.path}`}>
                                 <ProjectList data={category} />

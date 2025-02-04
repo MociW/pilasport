@@ -11,8 +11,8 @@ const Navbar = () => {
                             <Link to="/">
                                 <img
                                     src="/img/parxy.png"
-                                    alt="EduSquad Logo - Engineering Education Support for Quality Advancements"
-                                    className="w-auto h-[80px] align-middle"
+                                    alt=""
+                                    className="w-auto h-[40px] align-middle"
                                 />
                             </Link>
                         </div>
@@ -55,7 +55,11 @@ const HambugerNav = () => {
     return (
         <div className="lg:hidden navbar-end">
             <div className="dropdown dropdown-end">
-                <div tabIndex="0" role="button" className="btn btn-ghost btn-square text-[black]">
+                <div
+                    tabIndex="0"
+                    role="button"
+                    className="btn btn-ghost btn-square text-[black]"
+                >
                     <svg
                         xmlns="http://www.w3.org/2000/svg"
                         fill="none"
