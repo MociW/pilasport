@@ -26,13 +26,15 @@ const ProjectList = ({ data }) => {
 
 const Project = () => {
     const projectCategory = [
-        { name: "Jawa", img: "/img/1.jpg", path: "jawa" },
         { name: "Sulawesi", img: "/img/2.jpg", path: "sulawesi" },
         { name: "Nusa Tenggara", img: "/img/3.jpg", path: "nusa-tenggara" },
         { name: "Sumatera", img: "/img/1.jpg", path: "sumatera" },
+        { name: "Kalimantan", img: "/img/2.jpg", path: "kalimantan" },
         { name: "Bali", img: "/img/3.jpg", path: "bali" },
-        { name: "Sumatera", img: "/img/1.jpg", path: "sumatera" },
-        { name: "Bali", img: "/img/3.jpg", path: "bali" },
+        { name: "Jawa Barat", img: "/img/1.jpg", path: "jawa-barat" },
+        { name: "Jawa Timur", img: "/img/3.jpg", path: "jawa-timur" },
+        { name: "Jawa Tengah", img: "/img/3.jpg", path: "jawa-tengah" },
+        { name: "Aceh", img: "/img/3.jpg", path: "aceh" },
     ];
 
     return (

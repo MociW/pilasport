@@ -57,6 +57,7 @@ const ProductDetail = () => {
     );
 
     if (!project) {
+        console.log(project);
         return (
             <>
                 <Navbar />

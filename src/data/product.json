@@ -1,32 +1,128 @@
 [
     {
         "id": 1,
-        "name": "Ring Basket",
-        "description": "Ring Basket - Solusi Praktis untuk Penyimpanan Anda!<br> <br> Deskripsi Produk:<br> Ring Basket adalah keranjang penyimpanan yang dirancang dengan cermat untuk memenuhi kebutuhan organisasi dan estetika rumah Anda. Terbuat dari bahan berkualitas tinggi, Ring Basket menawarkan daya tahan dan keindahan yang sempurna untuk setiap ruangan.<br> <br> Fitur Utama:<br> Desain Modern: Dengan tampilan yang elegan dan minimalis, Ring Basket cocok untuk berbagai gaya dekorasi, dari yang klasik hingga kontemporer.<br> Bahan Berkualitas: Dibuat dari bahan ramah lingkungan dan tahan lama, memastikan bahwa Ring Basket dapat digunakan dalam jangka waktu yang lama.<br> Beragam Ukuran: Tersedia dalam berbagai ukuran, Ring Basket dapat digunakan untuk menyimpan mainan, pakaian, buku, dan barang-barang lainnya.<br> Mudah Dipindahkan: Dilengkapi dengan pegangan yang nyaman, memudahkan Anda untuk memindahkan keranjang ini dari satu tempat ke tempat lain.<br> Fleksibel dan Multifungsi: Ideal untuk digunakan di ruang tamu, kamar tidur, atau bahkan di ruang kerja, Ring Basket membantu Anda menjaga kebersihan dan kerapihan.<br> <br> Manfaat:<br> Mengurangi Kekacauan: Dengan menggunakan Ring Basket, Anda dapat dengan mudah mengorganisir barang-barang Anda, mengurangi kekacauan di rumah.<br> Meningkatkan Estetika Ruangan: Desain yang menarik akan menambah nilai estetika ruangan Anda, menjadikannya lebih rapi dan teratur.<br> Praktis dan Fungsional: Ring Basket tidak hanya berfungsi sebagai tempat penyimpanan, tetapi juga sebagai elemen dekoratif yang menarik.<br> <br> Spesifikasi:<br> -Material: Anyaman sintetis berkualitas tinggi<br> -Ukuran:<br>  -Kecil: Diameter 30 cm, Tinggi 25 cm<br>  -Sedang: Diameter 40 cm, Tinggi 30 cm<br>  -Besar: Diameter 50 cm, Tinggi 35 cm<br>  -Warna: Putih, Coklat, Abu-abu, dan Hitam<br> <br> Harga:<br> Kecil: Rp 75.000<br> Sedang: Rp 100.000<br> Besar: Rp 125.000",
-        "img": ["/img/3.jpg", "/img/2.jpg", "/img/1.jpg"]
+        "name": "Sepatu Lari",
+        "description": "Sepatu Lari - Tingkatkan Performa Lari Anda!<br> <br> Deskripsi Produk:<br> Sepatu lari dirancang khusus untuk kenyamanan dan performa saat berlari. Dengan bahan berkualitas tinggi, sepatu ini membantu mencegah cedera dan mendukung setiap langkah Anda.<br> <br> Fitur Utama:<br> - Desain ergonomis<br> - Sol anti-slip<br> - Bahan breathable<br> - Ringan dan nyaman<br> <br> Spesifikasi:<br> - Material: Mesh dan karet berkualitas tinggi<br> - Ukuran: 38-45<br> - Warna: Hitam, Biru, Abu-abu, Merah<br> <br> Harga: Rp 350.000",
+        "img": ["/img/2.jpg", "/img/2.jpg", "/img/3.jpg"]
     },
     {
         "id": 2,
-        "name": "Tenis Meja",
-        "description": "Ring Basket - Solusi Praktis untuk Penyimpanan Anda!<br> <br> Deskripsi Produk:<br> Ring Basket adalah keranjang penyimpanan yang dirancang dengan cermat untuk memenuhi kebutuhan organisasi dan estetika rumah Anda. Terbuat dari bahan berkualitas tinggi, Ring Basket menawarkan daya tahan dan keindahan yang sempurna untuk setiap ruangan.<br> <br> Fitur Utama:<br> Desain Modern: Dengan tampilan yang elegan dan minimalis, Ring Basket cocok untuk berbagai gaya dekorasi, dari yang klasik hingga kontemporer.<br> Bahan Berkualitas: Dibuat dari bahan ramah lingkungan dan tahan lama, memastikan bahwa Ring Basket dapat digunakan dalam jangka waktu yang lama.<br> Beragam Ukuran: Tersedia dalam berbagai ukuran, Ring Basket dapat digunakan untuk menyimpan mainan, pakaian, buku, dan barang-barang lainnya.<br> Mudah Dipindahkan: Dilengkapi dengan pegangan yang nyaman, memudahkan Anda untuk memindahkan keranjang ini dari satu tempat ke tempat lain.<br> Fleksibel dan Multifungsi: Ideal untuk digunakan di ruang tamu, kamar tidur, atau bahkan di ruang kerja, Ring Basket membantu Anda menjaga kebersihan dan kerapihan.<br> <br> Manfaat:<br> Mengurangi Kekacauan: Dengan menggunakan Ring Basket, Anda dapat dengan mudah mengorganisir barang-barang Anda, mengurangi kekacauan di rumah.<br> Meningkatkan Estetika Ruangan: Desain yang menarik akan menambah nilai estetika ruangan Anda, menjadikannya lebih rapi dan teratur.<br> Praktis dan Fungsional: Ring Basket tidak hanya berfungsi sebagai tempat penyimpanan, tetapi juga sebagai elemen dekoratif yang menarik.<br> <br> Spesifikasi:<br> -Material: Anyaman sintetis berkualitas tinggi<br> -Ukuran:<br>  -Kecil: Diameter 30 cm, Tinggi 25 cm<br>  -Sedang: Diameter 40 cm, Tinggi 30 cm<br>  -Besar: Diameter 50 cm, Tinggi 35 cm<br>  -Warna: Putih, Coklat, Abu-abu, dan Hitam<br> <br> Harga:<br> Kecil: Rp 75.000<br> Sedang: Rp 100.000<br> Besar: Rp 125.000",
-        "img": ["/img/1.jpg", "/img/2.jpg", "/img/3.jpg"]
+        "name": "Bola Sepak",
+        "description": "Bola Sepak Profesional - Cocok untuk Latihan dan Pertandingan!<br> <br> Deskripsi Produk:<br> Bola sepak berkualitas tinggi dengan standar FIFA. Dirancang untuk daya tahan dan akurasi optimal.<br> <br> Fitur Utama:<br> - Lapisan PU tahan air<br> - Jahitan mesin presisi tinggi<br> - Permukaan anti-selip<br> <br> Spesifikasi:<br> - Material: PU premium<br> - Ukuran: 5<br> - Warna: Putih-Hitam, Merah-Biru<br> <br> Harga: Rp 250.000",
+        "img": ["/img/3.jpg", "/img/2.jpg", "/img/3.jpg"]
     },
     {
         "id": 3,
-        "name": "Tenis Meja",
-        "description": "Ring Basket - Solusi Praktis untuk Penyimpanan Anda!<br> <br> Deskripsi Produk:<br> Ring Basket adalah keranjang penyimpanan yang dirancang dengan cermat untuk memenuhi kebutuhan organisasi dan estetika rumah Anda. Terbuat dari bahan berkualitas tinggi, Ring Basket menawarkan daya tahan dan keindahan yang sempurna untuk setiap ruangan.<br> <br> Fitur Utama:<br> Desain Modern: Dengan tampilan yang elegan dan minimalis, Ring Basket cocok untuk berbagai gaya dekorasi, dari yang klasik hingga kontemporer.<br> Bahan Berkualitas: Dibuat dari bahan ramah lingkungan dan tahan lama, memastikan bahwa Ring Basket dapat digunakan dalam jangka waktu yang lama.<br> Beragam Ukuran: Tersedia dalam berbagai ukuran, Ring Basket dapat digunakan untuk menyimpan mainan, pakaian, buku, dan barang-barang lainnya.<br> Mudah Dipindahkan: Dilengkapi dengan pegangan yang nyaman, memudahkan Anda untuk memindahkan keranjang ini dari satu tempat ke tempat lain.<br> Fleksibel dan Multifungsi: Ideal untuk digunakan di ruang tamu, kamar tidur, atau bahkan di ruang kerja, Ring Basket membantu Anda menjaga kebersihan dan kerapihan.<br> <br> Manfaat:<br> Mengurangi Kekacauan: Dengan menggunakan Ring Basket, Anda dapat dengan mudah mengorganisir barang-barang Anda, mengurangi kekacauan di rumah.<br> Meningkatkan Estetika Ruangan: Desain yang menarik akan menambah nilai estetika ruangan Anda, menjadikannya lebih rapi dan teratur.<br> Praktis dan Fungsional: Ring Basket tidak hanya berfungsi sebagai tempat penyimpanan, tetapi juga sebagai elemen dekoratif yang menarik.<br> <br> Spesifikasi:<br> -Material: Anyaman sintetis berkualitas tinggi<br> -Ukuran:<br>  -Kecil: Diameter 30 cm, Tinggi 25 cm<br>  -Sedang: Diameter 40 cm, Tinggi 30 cm<br>  -Besar: Diameter 50 cm, Tinggi 35 cm<br>  -Warna: Putih, Coklat, Abu-abu, dan Hitam<br> <br> Harga:<br> Kecil: Rp 75.000<br> Sedang: Rp 100.000<br> Besar: Rp 125.000",
-        "img": ["/img/2.jpg", "/img/3.jpg", "/img/1.jpg"]
+        "name": "Raket Badminton",
+        "description": "Raket Badminton Ultra-Light - Tingkatkan Permainan Anda!<br> <br> Deskripsi Produk:<br> Raket badminton ringan dengan rangka karbon untuk kekuatan dan kecepatan maksimal.<br> <br> Fitur Utama:<br> - Rangka karbon fiber<br> - Grip anti-slip<br> - Tali senar berkualitas tinggi<br> <br> Spesifikasi:<br> - Berat: 85g<br> - Panjang: 675mm<br> - Warna: Hitam, Biru, Kuning<br> <br> Harga: Rp 500.000",
+        "img": ["/img/1.jpg", "/img/2.jpg", "/img/3.jpg"]
     },
     {
         "id": 4,
-        "name": "Tenis Meja",
-        "description": "Ring Basket - Solusi Praktis untuk Penyimpanan Anda!<br> <br> Deskripsi Produk:<br> Ring Basket adalah keranjang penyimpanan yang dirancang dengan cermat untuk memenuhi kebutuhan organisasi dan estetika rumah Anda. Terbuat dari bahan berkualitas tinggi, Ring Basket menawarkan daya tahan dan keindahan yang sempurna untuk setiap ruangan.<br> <br> Fitur Utama:<br> Desain Modern: Dengan tampilan yang elegan dan minimalis, Ring Basket cocok untuk berbagai gaya dekorasi, dari yang klasik hingga kontemporer.<br> Bahan Berkualitas: Dibuat dari bahan ramah lingkungan dan tahan lama, memastikan bahwa Ring Basket dapat digunakan dalam jangka waktu yang lama.<br> Beragam Ukuran: Tersedia dalam berbagai ukuran, Ring Basket dapat digunakan untuk menyimpan mainan, pakaian, buku, dan barang-barang lainnya.<br> Mudah Dipindahkan: Dilengkapi dengan pegangan yang nyaman, memudahkan Anda untuk memindahkan keranjang ini dari satu tempat ke tempat lain.<br> Fleksibel dan Multifungsi: Ideal untuk digunakan di ruang tamu, kamar tidur, atau bahkan di ruang kerja, Ring Basket membantu Anda menjaga kebersihan dan kerapihan.<br> <br> Manfaat:<br> Mengurangi Kekacauan: Dengan menggunakan Ring Basket, Anda dapat dengan mudah mengorganisir barang-barang Anda, mengurangi kekacauan di rumah.<br> Meningkatkan Estetika Ruangan: Desain yang menarik akan menambah nilai estetika ruangan Anda, menjadikannya lebih rapi dan teratur.<br> Praktis dan Fungsional: Ring Basket tidak hanya berfungsi sebagai tempat penyimpanan, tetapi juga sebagai elemen dekoratif yang menarik.<br> <br> Spesifikasi:<br> -Material: Anyaman sintetis berkualitas tinggi<br> -Ukuran:<br>  -Kecil: Diameter 30 cm, Tinggi 25 cm<br>  -Sedang: Diameter 40 cm, Tinggi 30 cm<br>  -Besar: Diameter 50 cm, Tinggi 35 cm<br>  -Warna: Putih, Coklat, Abu-abu, dan Hitam<br> <br> Harga:<br> Kecil: Rp 75.000<br> Sedang: Rp 100.000<br> Besar: Rp 125.000",
-        "img": ["/img/1.jpg", "/img/3.jpg", "/img/1.jpg"]
+        "name": "Matras Yoga",
+        "description": "Matras Yoga Anti-Slip - Ideal untuk Yoga dan Pilates!<br> <br> Deskripsi Produk:<br> Matras yoga tebal dengan bahan anti-slip untuk stabilitas maksimal.<br> <br> Fitur Utama:<br> - Permukaan anti-slip<br> - Tebal dan nyaman<br> - Mudah digulung dan disimpan<br> <br> Spesifikasi:<br> - Material: TPE<br> - Ukuran: 183x61 cm<br> - Ketebalan: 6 mm<br> - Warna: Hijau, Pink, Ungu<br> <br> Harga: Rp 200.000",
+        "img": ["/img/1.jpg", "/img/2.jpg", "/img/3.jpg"]
     },
     {
         "id": 5,
-        "name": "Tenis Meja",
-        "description": "Ring Basket - Solusi Praktis untuk Penyimpanan Anda!<br> <br> Deskripsi Produk:<br> Ring Basket adalah keranjang penyimpanan yang dirancang dengan cermat untuk memenuhi kebutuhan organisasi dan estetika rumah Anda. Terbuat dari bahan berkualitas tinggi, Ring Basket menawarkan daya tahan dan keindahan yang sempurna untuk setiap ruangan.<br> <br> Fitur Utama:<br> Desain Modern: Dengan tampilan yang elegan dan minimalis, Ring Basket cocok untuk berbagai gaya dekorasi, dari yang klasik hingga kontemporer.<br> Bahan Berkualitas: Dibuat dari bahan ramah lingkungan dan tahan lama, memastikan bahwa Ring Basket dapat digunakan dalam jangka waktu yang lama.<br> Beragam Ukuran: Tersedia dalam berbagai ukuran, Ring Basket dapat digunakan untuk menyimpan mainan, pakaian, buku, dan barang-barang lainnya.<br> Mudah Dipindahkan: Dilengkapi dengan pegangan yang nyaman, memudahkan Anda untuk memindahkan keranjang ini dari satu tempat ke tempat lain.<br> Fleksibel dan Multifungsi: Ideal untuk digunakan di ruang tamu, kamar tidur, atau bahkan di ruang kerja, Ring Basket membantu Anda menjaga kebersihan dan kerapihan.<br> <br> Manfaat:<br> Mengurangi Kekacauan: Dengan menggunakan Ring Basket, Anda dapat dengan mudah mengorganisir barang-barang Anda, mengurangi kekacauan di rumah.<br> Meningkatkan Estetika Ruangan: Desain yang menarik akan menambah nilai estetika ruangan Anda, menjadikannya lebih rapi dan teratur.<br> Praktis dan Fungsional: Ring Basket tidak hanya berfungsi sebagai tempat penyimpanan, tetapi juga sebagai elemen dekoratif yang menarik.<br> <br> Spesifikasi:<br> -Material: Anyaman sintetis berkualitas tinggi<br> -Ukuran:<br>  -Kecil: Diameter 30 cm, Tinggi 25 cm<br>  -Sedang: Diameter 40 cm, Tinggi 30 cm<br>  -Besar: Diameter 50 cm, Tinggi 35 cm<br>  -Warna: Putih, Coklat, Abu-abu, dan Hitam<br> <br> Harga:<br> Kecil: Rp 75.000<br> Sedang: Rp 100.000<br> Besar: Rp 125.000",
-        "img": ["/img/3.jpg", "/img/2.jpg", "/img/1.jpg"]
+        "name": "Barbel Dumbbell",
+        "description": "Dumbbell Adjustable - Latihan Beban di Rumah!<br> <br> Deskripsi Produk:<br> Dumbbell yang dapat disesuaikan dengan berat hingga 20 kg. Cocok untuk latihan kekuatan.<br> <br> Fitur Utama:<br> - Berat dapat disesuaikan<br> - Grip nyaman dan anti-slip<br> - Material tahan lama<br> <br> Spesifikasi:<br> - Berat maksimum: 20 kg<br> - Material: Besi dan karet<br> - Warna: Hitam<br> <br> Harga: Rp 750.000",
+        "img": ["/img/1.jpg", "/img/2.jpg", "/img/3.jpg"]
+    },
+    {
+        "id": 6,
+        "name": "Sarung Tangan Tinju",
+        "description": "Sarung Tangan Tinju Profesional - Lindungi Tangan Anda!<br> <br> Deskripsi Produk:<br> Sarung tangan tinju dengan bantalan ekstra untuk melindungi tangan dan pergelangan.<br> <br> Fitur Utama:<br> - Bantalan tebal<br> - Velcro strap kuat<br> - Material PU tahan lama<br> <br> Spesifikasi:<br> - Berat: 10 oz<br> - Warna: Merah, Hitam, Biru<br> <br> Harga: Rp 300.000",
+        "img": ["/img/1.jpg", "/img/2.jpg", "/img/3.jpg"]
+    },
+    {
+        "id": 7,
+        "name": "Skipping Rope",
+        "description": "Skipping Rope Adjustable - Untuk Latihan Kardio!<br> <br> Deskripsi Produk:<br> Tali skipping dengan panjang yang dapat disesuaikan. Ideal untuk latihan kardio dan ketahanan.<br> <br> Fitur Utama:<br> - Panjang adjustable<br> - Handle anti-slip<br> - Tali nylon kuat<br> <br> Spesifikasi:<br> - Panjang maksimum: 3 m<br> - Warna: Hitam, Biru, Pink<br> <br> Harga: Rp 100.000",
+        "img": ["/img/1.jpg", "/img/2.jpg", "/img/3.jpg"]
+    },
+    {
+        "id": 8,
+        "name": "Kettlebell",
+        "description": "Kettlebell Besi - Latihan Kekuatan dan Kondisi Fisik!<br> <br> Deskripsi Produk:<br> Kettlebell besi dengan pegangan ergonomis untuk latihan tubuh penuh.<br> <br> Fitur Utama:<br> - Pegangan nyaman<br> - Permukaan anti-karat<br> - Tersedia berbagai berat<br> <br> Spesifikasi:<br> - Berat: 4 kg, 8 kg, 12 kg<br> - Material: Besi cor<br> - Warna: Hitam<br> <br> Harga: Rp 400.000",
+        "img": ["/img/1.jpg", "/img/2.jpg", "/img/3.jpg"]
+    },
+    {
+        "id": 9,
+        "name": "Meja Tenis",
+        "description": "Meja Tenis Lipat - Cocok untuk Rumah dan Kantor!<br> <br> Deskripsi Produk:<br> Meja tenis lipat dengan permukaan MDF berkualitas tinggi.<br> <br> Fitur Utama:<br> - Mudah dilipat dan disimpan<br> - Permukaan halus dan kuat<br> - Roda untuk mobilitas<br> <br> Spesifikasi:<br> - Material: MDF dan baja<br> - Ukuran: 274 x 152.5 x 76 cm<br> - Warna: Biru<br> <br> Harga: Rp 3.500.000",
+        "img": ["/img/1.jpg", "/img/2.jpg", "/img/3.jpg"]
+    },
+    {
+        "id": 10,
+        "name": "Helm Sepeda",
+        "description": "Helm Sepeda Ringan - Keamanan dan Kenyamanan!<br> <br> Deskripsi Produk:<br> Helm sepeda dengan ventilasi optimal dan desain aerodinamis.<br> <br> Fitur Utama:<br> - Ventilasi udara maksimal<br> - Adjustable strap<br> - Busa pelindung tebal<br> <br> Spesifikasi:<br> - Ukuran: M, L, XL<br> - Warna: Putih, Hitam, Merah<br> <br> Harga: Rp 500.000",
+        "img": ["/img/1.jpg", "/img/2.jpg", "/img/3.jpg"]
+    },
+    {
+        "id": 11,
+        "name": "Treadmill Elektrik",
+        "description": "Treadmill Elektrik Multifungsi - Latihan Kardio di Rumah!<br> <br> Deskripsi Produk:<br> Treadmill dengan layar digital, berbagai mode latihan, dan lipat untuk hemat tempat.<br> <br> Fitur Utama:<br> - Layar digital untuk kecepatan, jarak, kalori<br> - Kecepatan hingga 12 km/h<br> - Mode lipat hemat tempat<br> <br> Spesifikasi:<br> - Daya: 1.5 HP<br> - Maksimal berat pengguna: 120 kg<br> - Warna: Hitam<br> <br> Harga: Rp 7.500.000",
+        "img": ["/img/1.jpg", "/img/2.jpg", "/img/3.jpg"]
+    },
+    {
+        "id": 12,
+        "name": "Bola Basket",
+        "description": "Bola Basket Outdoor/Indoor - Tahan Lama dan Presisi!<br> <br> Deskripsi Produk:<br> Bola basket standar dengan bahan PU premium yang tahan lama.<br> <br> Fitur Utama:<br> - Permukaan anti-selip<br> - Cocok untuk indoor dan outdoor<br> - Tekstur lembut dan tahan lama<br> <br> Spesifikasi:<br> - Material: PU<br> - Ukuran: 7<br> - Warna: Oranye<br> <br> Harga: Rp 300.000",
+        "img": ["/img/1.jpg", "/img/2.jpg", "/img/3.jpg"]
+    },
+    {
+        "id": 13,
+        "name": "Foam Roller",
+        "description": "Foam Roller untuk Pemulihan Otot!<br> <br> Deskripsi Produk:<br> Foam roller dengan desain bertekstur untuk pijatan otot yang dalam.<br> <br> Fitur Utama:<br> - Tekstur untuk pijatan maksimal<br> - Bahan EVA tahan lama<br> - Mudah dibawa ke mana saja<br> <br> Spesifikasi:<br> - Panjang: 33 cm<br> - Diameter: 14 cm<br> - Warna: Hitam, Biru, Merah<br> <br> Harga: Rp 150.000",
+        "img": ["/img/1.jpg", "/img/2.jpg", "/img/3.jpg"]
+    },
+    {
+        "id": 14,
+        "name": "Speed Bag",
+        "description": "Speed Bag Tinju - Tingkatkan Kecepatan dan Refleks!<br> <br> Deskripsi Produk:<br> Speed bag dengan bahan kulit sintetis berkualitas tinggi.<br> <br> Fitur Utama:<br> - Desain aerodinamis<br> - Bantalan internal lembut<br> - Tali pengikat kuat<br> <br> Spesifikasi:<br> - Material: Kulit sintetis<br> - Warna: Merah, Hitam<br> <br> Harga: Rp 350.000",
+        "img": ["/img/1.jpg", "/img/2.jpg", "/img/3.jpg"]
+    },
+    {
+        "id": 15,
+        "name": "Pull-up Bar",
+        "description": "Pull-up Bar Pintu - Latihan Kekuatan Tubuh Atas!<br> <br> Deskripsi Produk:<br> Pull-up bar yang dapat dipasang di pintu tanpa baut.<br> <br> Fitur Utama:<br> - Mudah dipasang tanpa merusak pintu<br> - Pegangan busa anti-slip<br> - Material baja tahan lama<br> <br> Spesifikasi:<br> - Panjang: 60-100 cm (adjustable)<br> - Warna: Hitam<br> <br> Harga: Rp 250.000",
+        "img": ["/img/1.jpg", "/img/2.jpg", "/img/3.jpg"]
+    },
+    {
+        "id": 16,
+        "name": "Sepeda Statis",
+        "description": "Sepeda Statis Magnetik - Latihan Kardio Efektif!<br> <br> Deskripsi Produk:<br> Sepeda statis dengan 8 level resistensi magnetik dan layar digital.<br> <br> Fitur Utama:<br> - Monitor kecepatan, waktu, kalori, dan jarak<br> - Desain ergonomis<br> - Kursi adjustable<br> <br> Spesifikasi:<br> - Berat maksimal: 120 kg<br> - Warna: Hitam-Biru<br> <br> Harga: Rp 5.000.000",
+        "img": ["/img/1.jpg", "/img/2.jpg", "/img/3.jpg"]
+    },
+    {
+        "id": 17,
+        "name": "Jaring Voli",
+        "description": "Jaring Voli Standar Kompetisi!<br> <br> Deskripsi Produk:<br> Jaring voli dengan bahan nylon tahan lama.<br> <br> Fitur Utama:<br> - Ukuran standar kompetisi<br> - Tali pengikat kuat<br> - Cocok untuk outdoor dan indoor<br> <br> Spesifikasi:<br> - Panjang: 9.5 m<br> - Tinggi: 1 m<br> - Material: Nylon<br> <br> Harga: Rp 400.000",
+        "img": ["/img/1.jpg", "/img/2.jpg", "/img/3.jpg"]
+    },
+    {
+        "id": 18,
+        "name": "Balance Board",
+        "description": "Balance Board untuk Latihan Keseimbangan!<br> <br> Deskripsi Produk:<br> Balance board dengan desain kokoh untuk meningkatkan stabilitas tubuh.<br> <br> Fitur Utama:<br> - Permukaan anti-slip<br> - Desain ergonomis<br> - Mudah digunakan di rumah<br> <br> Spesifikasi:<br> - Diameter: 40 cm<br> - Material: ABS plastik<br> - Warna: Hitam, Biru<br> <br> Harga: Rp 300.000",
+        "img": ["/img/1.jpg", "/img/2.jpg", "/img/3.jpg"]
+    },
+    {
+        "id": 19,
+        "name": "Wrist Wrap",
+        "description": "Wrist Wrap - Dukungan Optimal untuk Pergelangan Tangan!<br> <br> Deskripsi Produk:<br> Wrist wrap dengan bahan elastis berkualitas tinggi untuk dukungan maksimal.<br> <br> Fitur Utama:<br> - Bahan elastis premium<br> - Velcro strap kuat<br> - Mudah digunakan<br> <br> Spesifikasi:<br> - Panjang: 45 cm<br> - Warna: Hitam, Abu-abu, Merah<br> <br> Harga: Rp 120.000",
+        "img": [
+            "/img/1.jpg",
+            "/img/2.jpg",
+            "/img/3.jpg",
+            "/img/2.jpg",
+            "/img/3.jpg"
+        ]
+    },
+    {
+        "id": 20,
+        "name": "Glove Gym",
+        "description": "Glove Gym Anti-Slip - Lindungi Tangan Saat Angkat Beban!<br> <br> Deskripsi Produk:<br> Sarung tangan gym dengan bantalan ekstra untuk kenyamanan maksimal.<br> <br> Fitur Utama:<br> - Anti-slip grip<br> - Desain breathable<br> - Mudah dicuci<br> <br> Spesifikasi:<br> - Material: Neoprene<br> - Ukuran: M, L, XL<br> - Warna: Hitam, Biru<br> <br> Harga: Rp 180.000",
+        "img": ["/img/1.jpg", "/img/2.jpg", "/img/3.jpg"]
     }
 ]

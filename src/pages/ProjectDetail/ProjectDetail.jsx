@@ -58,7 +58,7 @@ const ProjectDetail = () => {
     const project = projects.find(
         (data) =>
             data.name.toLowerCase().replace(/\s/g, "-") === id &&
-            data.category.toLowerCase() === category
+            data.category.toLowerCase().replace(/\s/g, "-") === category
     );
 
     if (!project) {
